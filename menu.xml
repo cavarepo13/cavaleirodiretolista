@@ -1,1 +1,34 @@
-teste
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+    <!-- Informações da lista principal -->
+    <channels_info>
+        <title>Menu Principal do Addon</title>
+        <fanart>https://i.imgur.com/examplefanart.jpg</fanart>
+    </channels_info>
+
+    <!-- Categoria TV Ao Vivo -->
+    <channel>
+        <name>[B]📺 TV AO VIVO[/B]</name>
+        <thumbnail>https://i.imgur.com/tvicon.png</thumbnail>
+        <!-- Link para o arquivo que contém os canais de TV -->
+        <externallink>https://gist.githubusercontent.com/SEU_USUARIO/SEU_GIST_ID/raw/tv_ao_vivo.xml</externallink>
+    </channel>
+
+    <!-- Categoria Filmes -->
+    <channel>
+        <name>[B]🎬 FILMES[/B]</name>
+        <thumbnail>https://i.imgur.com/movieicon.png</thumbnail>
+        <!-- Link para o arquivo que contém os gêneros de filmes -->
+        <externallink>https://gist.githubusercontent.com/SEU_USUARIO/SEU_GIST_ID/raw/filmes_main.xml</externallink>
+    </channel>
+
+    <!-- Categoria Séries -->
+    <channel>
+        <name>[B]🎞️ SÉRIES[/B]</name>
+        <thumbnail>https://i.imgur.com/seriesicon.png</thumbnail>
+        <!-- Link para o arquivo que lista as séries -->
+        <externallink>https://gist.githubusercontent.com/SEU_USUARIO/SEU_GIST_ID/raw/series_main.xml</externallink>
+    </channel>
+
+</channels>
