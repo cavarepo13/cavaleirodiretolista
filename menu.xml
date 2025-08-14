@@ -12,7 +12,7 @@
         <name>[B]📺 TV AO VIVO[/B]</name>
         <thumbnail>https://i.imgur.com/tvicon.png</thumbnail>
         <!-- Link para o arquivo que contém os canais de TV -->
-        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
+        <externallink>https://drive.google.com/file/d/1GHQW5DvJyR5sDLvBA72NIieDYEU99pmr/view?usp=sharing</externallink>
     </channel>
 
     <!-- Categoria Filmes -->
@@ -20,7 +20,7 @@
         <name>[B]🎬 FILMES[/B]</name>
         <thumbnail>https://i.imgur.com/movieicon.png</thumbnail>
         <!-- Link para o arquivo que contém os gêneros de filmes -->
-        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
+        <externallink>https://drive.google.com/file/d/1GHQW5DvJyR5sDLvBA72NIieDYEU99pmr/view?usp=sharing</externallink>
     </channel>
 
     <!-- Categoria Séries -->
@@ -28,7 +28,7 @@
         <name>[B]🎞️ SÉRIES[/B]</name>
         <thumbnail>https://i.imgur.com/seriesicon.png</thumbnail>
         <!-- Link para o arquivo que lista as séries -->
-        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
+        <externallink>https://drive.google.com/file/d/1GHQW5DvJyR5sDLvBA72NIieDYEU99pmr/view?usp=sharing</externallink>
     </channel>
 
 </channels>
