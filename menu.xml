@@ -4,14 +4,16 @@
     <!-- Informações da lista principal -->
     <channels_info>
         <title>Menu Principal do Addon</title>
-        <fanart>https://i.imgur.com/examplefanart.jpg</fanart>
+        <thumbnail>https://archive.org/download/addonfanart2/iconaddon.png</thumbnail>
+        <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
     </channels_info>
 
     <!-- Categoria TV Ao Vivo -->
     <channel>
         <name>[B]📺 TV AO VIVO[/B]</name>
-        <thumbnail>https://i.imgur.com/tvicon.png</thumbnail>
+       <thumbnail>https://archive.org/download/addonfanart2/addontv.png</thumbnail>
+        <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <!-- Link para o arquivo que contém os canais de TV -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/tvaovivo.xml</externallink>
     </channel>
@@ -19,7 +21,8 @@
     <!-- Categoria Filmes -->
     <channel>
         <name>[B]🎬 FILMES[/B]</name>
-        <thumbnail>https://i.imgur.com/movieicon.png</thumbnail>
+        <thumbnail>https://archive.org/download/addonfanart2/addonfilmes.png</thumbnail>
+        <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <!-- Link para o arquivo que contém os gêneros de filmes -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes.xml</externallink>
     </channel>
@@ -27,7 +30,8 @@
     <!-- Categoria Séries -->
     <channel>
         <name>[B]🎞️ SÉRIES[/B]</name>
-        <thumbnail>https://i.imgur.com/seriesicon.png</thumbnail>
+        <thumbnail>https://archive.org/download/addonfanart2/addonseries.png</thumbnail>
+        <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <!-- Link para o arquivo que lista as séries -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/series.xml</externallink>
     </channel>
