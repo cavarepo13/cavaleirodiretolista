@@ -21,7 +21,7 @@
         <name>[B]🎬 FILMES[/B]</name>
         <thumbnail>https://i.imgur.com/movieicon.png</thumbnail>
         <!-- Link para o arquivo que contém os gêneros de filmes -->
-        <externallink>https://drive.google.com/file/d/1GHQW5DvJyR5sDLvBA72NIieDYEU99pmr/view?usp=sharing</externallink>
+        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes.xml</externallink>
     </channel>
 
     <!-- Categoria Séries -->
