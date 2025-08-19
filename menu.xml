@@ -29,7 +29,7 @@
         <name>[B]🎞️ SÉRIES[/B]</name>
         <thumbnail>https://i.imgur.com/seriesicon.png</thumbnail>
         <!-- Link para o arquivo que lista as séries -->
-        <externallink>https://drive.google.com/file/d/1GHQW5DvJyR5sDLvBA72NIieDYEU99pmr/view?usp=sharing</externallink>
+        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/series.xml</externallink>
     </channel>
 
 </channels>
