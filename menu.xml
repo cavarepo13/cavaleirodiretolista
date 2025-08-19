@@ -5,7 +5,7 @@
     <channels_info>
         <title>Menu Principal do Addon</title>
         <fanart>https://i.imgur.com/examplefanart.jpg</fanart>
-        <externallink></externallink>
+        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
     </channels_info>
 
     <!-- Categoria TV Ao Vivo -->
