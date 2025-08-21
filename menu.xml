@@ -40,7 +40,8 @@
         <thumbnail>https://archive.org/download/tvonline2_202508/filmes2.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <!-- Link para o arquivo que contém os gêneros de filmes -->
-        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes.xml
+        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes2.xml</externallink>
+    </channel>
     
     <!-- Categoria Séries -->
     <channel>
