@@ -2,12 +2,12 @@
 <channels>
 
     <!-- Informações da lista principal -->
-    <channel>
+    <channels>
         <title>Menu Principal do Addon</title>
         <thumbnail>https://archive.org/download/addonfanart2/iconaddon.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
-    </channel>
+    </channels>
 
     <!-- Categoria TV Ao Vivo -->
     <channel>
