@@ -2,7 +2,7 @@
 <channels>
 
     <!-- Informações da lista principal -->
-    <channels>
+    <channel>
         <title>Menu Principal do Addon</title>
         <thumbnail>https://archive.org/download/addonfanart2/iconaddon.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
