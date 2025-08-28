@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
-    <!-- Informações da lista principal -->
-    <channels>
-        <title>Menu Principal do Addon</title>
+    <!-- Menu Principal -->
+    <channel>
+        <name>[B]🏰 MENU PRINCIPAL[/B]</name>
         <thumbnail>https://archive.org/download/addonfanart2/iconaddon.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
-    </channels>
+    </channel>
 
     <!-- Categoria TV Ao Vivo -->
     <channel>
         <name>[B]📺 TV AO VIVO[/B]</name>
-       <thumbnail>https://archive.org/download/addonfanart2/addontv.png</thumbnail>
+        <thumbnail>https://archive.org/download/addonfanart2/addontv.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <!-- Link para o arquivo que contém os canais de TV -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/tvaovivo.xml</externallink>
     </channel>
 
-   <channel>
+    <channel>
         <name>[B]📺 TV AO VIVO 2[/B]</name>
-       <thumbnail>https://archive.org/download/tvonline2_202508/tvonline2.png</thumbnail>
+        <thumbnail>https://archive.org/download/tvonline2_202508/tvonline2.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <!-- Link para o arquivo que contém os canais de TV -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/tvonline2.xml</externallink>
     </channel>
     
@@ -31,15 +29,13 @@
         <name>[B]🎬 FILMES[/B]</name>
         <thumbnail>https://archive.org/download/addonfanart2/addonfilmes.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <!-- Link para o arquivo que contém os gêneros de filmes -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes.xml</externallink>
     </channel>
 
-   <channel>
+    <channel>
         <name>[B]🎬 FILMES 2[/B]</name>
         <thumbnail>https://archive.org/download/tvonline2_202508/filmes2.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <!-- Link para o arquivo que contém os gêneros de filmes -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes2.xml</externallink>
     </channel>
     
@@ -48,7 +44,6 @@
         <name>[B]🎞️ SÉRIES[/B]</name>
         <thumbnail>https://archive.org/download/addonfanart2/addonseries.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <!-- Link para o arquivo que lista as séries -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/series.xml</externallink>
     </channel>
 
@@ -56,7 +51,6 @@
         <name>[B]🎞️ SÉRIES 2[/B]</name>
         <thumbnail>https://archive.org/download/tvonline2_202508/series2.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <!-- Link para o arquivo que lista as séries -->
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/series2.xml</externallink>
     </channel>
             
