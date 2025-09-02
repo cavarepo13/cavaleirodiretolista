@@ -1,0 +1,30 @@
+[
+  {
+    "categoria": "[COLORwhite]ENTRAR[/COLOR]",
+    "icon": "https://i.imgur.com/FBK5qFX.png",
+    "fanart": "https://i.imgur.com/KMlkWXm.jpeg",
+    "servidores": [
+      {
+        "nome": "[COLORwhite]Servidor 1[/COLOR]",
+        "dns": "http://clube.dblplay.top:80",
+        "username": "Leandro23015",
+        "password": "48121620aA@",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 5[/COLOR]",
+        "dns": "http://shakas.xyz:80",
+        "username": "102030",
+        "password": "302010",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 6[/COLOR]",
+        "dns": "http://coreofserver.xyz:80",
+        "username": "888640",
+        "password": "170830",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      }
+    ]
+  }
+]
