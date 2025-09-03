@@ -1,29 +1,29 @@
 [
   {
     "categoria": "[COLORwhite]ENTRAR[/COLOR]",
-    "icon": "https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png",
-    "fanart": "https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png",
+    "icon": "",
+    "fanart": "",
     "servidores": [
       {
         "nome": "[COLORwhite]Servidor 1[/COLOR]",
         "dns": "http://clube.dblplay.top:80",
         "username": "Leandro23015",
         "password": "48121620aA@",
-        "icon": "https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png"
+        "icon": ","
       },
       {
         "nome": "[COLORwhite]Servidor 5[/COLOR]",
         "dns": "http://shakas.xyz:80",
         "username": "102030",
         "password": "302010",
-        "icon": "https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png"
+        "icon": ""
       },
       {
         "nome": "[COLORwhite]Teste cavaleiro[/COLOR]",
         "dns": "http://rede.tvno.site:80",
         "username": "999882698",
         "password": "fernando0102",
-        "icon": "https://archive.org/download/file_000000008ef0623093d82ad182c028c4_conversation_id67f6e244-4654-8013-9804-37d/file_00000000f5d861f793414aaf751e540b_conversation_id%3D67f82169-a858-8007-ac0b-bd639d559fdb%26message_id%3Deed5cac3-88fc-4800-bd62-ea90e788b4fe.png"
+        "icon": ""
       }
     ]
   }
