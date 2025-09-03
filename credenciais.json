@@ -1,29 +1,29 @@
 [
   {
     "categoria": "[COLORwhite]ENTRAR[/COLOR]",
-    "icon": "",
-    "fanart": "",
+    "icon": "https://archive.org/download/icon_20250903/fanart.jpeg",
+    "fanart": "https://archive.org/download/icon_20250903/fanart1.png",
     "servidores": [
       {
         "nome": "[COLORwhite]Servidor 1[/COLOR]",
         "dns": "http://clube.dblplay.top:80",
         "username": "Leandro23015",
         "password": "48121620aA@",
-        "icon": ","
+        "icon": "https://archive.org/download/icon_20250903/fanart1.png"
       },
       {
         "nome": "[COLORwhite]Servidor 5[/COLOR]",
         "dns": "http://shakas.xyz:80",
         "username": "102030",
         "password": "302010",
-        "icon": ""
+        "icon": "https://archive.org/download/icon_20250903/fanart1.png"
       },
       {
         "nome": "[COLORwhite]Teste cavaleiro[/COLOR]",
         "dns": "http://rede.tvno.site:80",
         "username": "999882698",
         "password": "fernando0102",
-        "icon": ""
+        "icon": "https://archive.org/download/icon_20250903/fanart1.png"
       }
     ]
   }
