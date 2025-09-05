@@ -3,7 +3,7 @@
     "categoria": "[COLORwhite]ENTRAR[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
-    "servidores":
+    "servidores":[
       {
         "nome": "[COLORred]The Crow Servidor 0[/COLOR]",
         "dns": "https://archive.org/download/icon_20250905/fanart.png",
