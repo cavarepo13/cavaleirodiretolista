@@ -5,6 +5,13 @@
     "fanart": "https://archive.org/download/icon_20250903/fanart1.png",
     "servidores": [
       {
+        "nome": "[COLORred]The Crow Servidor 0[/COLOR]",
+        "dns": "http://cdn.jccob.click",
+        "username": "Wuleite",
+        "password": "Leite5522",
+        "icon": "https://archive.org/download/icon_20250903/fanart1.png"
+      },     
+	 {
         "nome": "[COLORred]The Crow Servidor 1[/COLOR]",
         "dns": "http://clube.dblplay.top:80",
         "username": "Leandro23015",
