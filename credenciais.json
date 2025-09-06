@@ -60,15 +60,22 @@
         "password": "Leite5522",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
-	  	  	  {
+	  {
         "nome": "[COLORred]The Crow Servidor 8[/COLOR]",
         "dns": "http://cdn.jccob.click",
         "username": "Wuleite",
         "password": "673437352",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
+	  {
+        "nome": "[COLORred]The Crow Servidor 9[/COLOR]",
+        "dns": "http://rede.tvno.site:80",
+        "username": "11972317615br",
+        "password": "teste@317615",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
       {
-        "nome": "[COLORyellow]The Crow Servidor 9[/COLOR]",
+        "nome": "[COLORyellow]The Crow Servidor 10[/COLOR]",
         "dns": "http://rede.tvno.site:80",
         "username": "999882698",
         "password": "fernando0102",
