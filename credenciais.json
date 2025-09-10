@@ -1,53 +1,88 @@
 [
   {
-    "categoria": "[COLORpink]ENTRAR[/COLOR] [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR]",
+    "categoria": "[COLORpink]ENTRAR[/COLOR] [COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S(DRAGON)& R.O(ARES)[/COLOR] by J.S & R.O[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
     "servidores": [ 
 	 {
-        "nome": "[COLORred]The Crow Servidor 0[/COLOR]",
+        "nome": "[COLORred][COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] by J.S & R.O[/COLOR] Servidor 0[/COLOR]",
         "dns": "http://pr1m3.fun",
         "username": "762644049",
         "password": "673437352",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
 	 {
-        "nome": "[COLORpink]The Crow Servidor 1[/COLOR]",
+        "nome": "[COLORpink][COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] by J.S & R.O[/COLOR] Servidor 1[/COLOR]",
         "dns": "http://clube.dblplay.top:80",
         "username": "Leandro23015",
         "password": "48121620aA@",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
       {
-        "nome": "[COLORorange]The Crow Servidor 2[/COLOR]",
+        "nome": "[COLORorange][COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] by J.S & R.O[/COLOR] Servidor 2[/COLOR]",
         "dns": "http://ragnatech.space",
         "username": "soutoluisclaudio89",
         "password": "89luisclaudiosouto",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
 	  {
-        "nome": "[COLORyellow]The Crow Servidor 3[/COLOR]",
+        "nome": "[COLORyellow][COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] by J.S & R.O[/COLOR] Servidor 3[/COLOR]",
         "dns": "http://7smartvplayers.top:2052",
         "username": "fernanda4290",
         "password": "play0407",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
 	  {
-        "nome": "[COLORbkue]The Crow Servidor 4[/COLOR]",
+        "nome": "[COLORbkue][COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] by J.S & R.O[/COLOR] Servidor 4[/COLOR]",
         "dns": "http://dfkkh.dtwkaf.xyz:80",
         "username": "744873724",
         "password": "562511110",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
       {
-        "nome": "[COLORred]The Crow Servidor 5[/COLOR]",
+        "nome": "[COLORred][COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] by J.S & R.O[/COLOR] Servidor 5[/COLOR]",
         "dns": "http://shakas.xyz:80",
         "username": "102030",
         "password": "302010",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
       {
-        "nome": "[COLORyellow]The Crow Servidor 6[/COLOR]",
+        "nome": "[COLORyellow][COLORlime] ADDON [COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] by J.S & R.O[/COLOR] Servidor 6[/COLOR]",
+        "dns": "http://rede.tvno.site:80",
+        "username": "999882698",
+        "password": "fernando0102",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      }
+	  {
+        "nome": "[COLORred][COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] Server 7[/COLOR]",
+        "dns": "http://pr1m3.fun",
+        "username": "762644049",
+        "password": "Leite5522",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
+	  {
+        "nome": "[COLORred][COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] Server 8[/COLOR]",
+        "dns": "http://cdn.jccob.click",
+        "username": "Wuleite",
+        "password": "673437352",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
+	  {
+        "nome": "[COLORred][COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] Server 9[/COLOR]",
+        "dns": "http://rede.tvno.site:80",
+        "username": "11972317615br",
+        "password": "teste@317615",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
+	  {
+        "nome": "[COLORred][COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] Server 10[/COLOR]",
+        "dns": "http://dfkkh.dtwkaf.xyz:80",
+        "username": "135959243",
+        "password": "231614386",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
+      {
+        "nome": "[COLORyellow][COLORlime] ADDON TEAM CAVALEIRO by J.S & R.O[/COLOR] Server 11[/COLOR]",
         "dns": "http://rede.tvno.site:80",
         "username": "999882698",
         "password": "fernando0102",
