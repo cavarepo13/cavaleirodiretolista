@@ -1,92 +1,50 @@
 [
   {
-    "categoria": "[COLORlime]ENTRAR ADDON TEAM CAVALEIRO[/COLOR] [COLORpink] by J.S DRAGON & R.O ARES[/COLOR]",
-    "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
-    "fanart": "https://archive.org/download/icon_20250905/fanart.png",
-    "servidores": [ 
-	 {
-        "nome": "[COLORlime] ADDON TEAM CAVALEIRO [/COLOR] [COLORred] Server 00 [/COLOR]",
-        "dns": "http://pr1m3.fun",
-        "username": "762644049",
-        "password": "673437352",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	 {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORblue] Server 01 [/COLOR]",
-        "dns": "http://clube.dblplay.top:80",
-        "username": "Leandro23015",
-        "password": "48121620aA@",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+    "categoria": "[COLORwhite]ENTRAR[/COLOR]",
+    "icon": "https://i.imgur.com/FBK5qFX.png",
+    "fanart": "https://i.imgur.com/KMlkWXm.jpeg",
+    "servidores": [
+      {
+        "nome": "[COLORwhite]Servidor 1[/COLOR]",
+        "dns": "http://cdn.maxcdn.live:2052",
+        "username": "max143",
+        "password": "984543896",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
       },
       {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORorange] Server 02 [/COLOR]",
-        "dns": "http://ragnatech.space",
-        "username": "soutoluisclaudio89",
-        "password": "89luisclaudiosouto",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORyellow] Server 03 [/COLOR]",
-        "dns": "http://7smartvplayers.top:2052",
-        "username": "fernanda4290",
-        "password": "play0407",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORorange] Server 04 [/COLOR]",
-        "dns": "http://dfkkh.dtwkaf.xyz:80",
-        "username": "744873724",
-        "password": "562511110",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+        "nome": "[COLORwhite]Servidor 2[/COLOR]",
+        "dns": "http://br.redis.ac:80",
+        "username": "0123456789",
+        "password": "0123456789",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
       },
       {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORred] Server 05 [/COLOR]",
+        "nome": "[COLORwhite]Servidor 3[/COLOR]",
+        "dns": "http://cdn.brmain.top:80",
+        "username": "269292359",
+        "password": "347543126",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 4[/COLOR]",
+        "dns": "http://cdn.brmain.top:80",
+        "username": "243835825",
+        "password": "814274669",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
+      },
+      {
+        "nome": "[COLORwhite]Servidor 5[/COLOR]",
         "dns": "http://shakas.xyz:80",
         "username": "102030",
         "password": "302010",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+        "icon": "https://i.imgur.com/FBK5qFX.png"
       },
       {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORpink] Server 06 [/COLOR]",
-        "dns": "http://rede.tvno.site:80",
-        "username": "999882698",
-        "password": "fernando0102",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      }
-	  {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORorange] Server 07 [/COLOR]",
-        "dns": "http://pr1m3.fun",
-        "username": "762644049",
-        "password": "Leite5522",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORpink] Server 08 [/COLOR]",
-        "dns": "http://cdn.jccob.click",
-        "username": "Wuleite",
-        "password": "673437352",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORred] Server 09 [/COLOR]",
-        "dns": "http://rede.tvno.site:80",
-        "username": "11972317615br",
-        "password": "teste@317615",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORorange] Server 10 [/COLOR]",
-        "dns": "http://dfkkh.dtwkaf.xyz:80",
-        "username": "135959243",
-        "password": "231614386",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-      {
-        "nome": "[COLORlime]ADDON TEAM CAVALEIRO [/COLOR] [COLORpink] Server 11 [/COLOR]",
-        "dns": "http://rede.tvno.site:80",
-        "username": "999882698",
-        "password": "fernando0102",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+        "nome": "[COLORwhite]Servidor 6[/COLOR]",
+        "dns": "http://bananadoce.online:80",
+        "username": "MARLI025",
+        "password": "D2c9F1",
+        "icon": "https://i.imgur.com/FBK5qFX.png"
       }
     ]
   }
