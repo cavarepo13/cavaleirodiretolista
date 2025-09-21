@@ -4,7 +4,14 @@
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
     "servidores": [ 
-	 {
+		{
+        "nome": "[COLORlime]TEAM CAVALEIRO[/COLOR] [COLORoange] Server -2+18[/COLOR]",
+        "dns": "https://whot.me/login",
+        "username": "Moises19",
+        "password": "987677872",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
+	{
         "nome": "[COLORlime]TEAM CAVALEIRO[/COLOR] [COLORoange] Server -1[/COLOR]",
         "dns": "http://vivofibrax.org",
         "username": "idddyktu68",
