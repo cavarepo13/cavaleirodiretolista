@@ -9,46 +9,54 @@
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
     </channel>
 
-    <!-- Categoria TV Ao Vivo -->
+    <!-- 🔍 SEÇÃO DE PESQUISA -->
     <channel>
-        <name>[B]📺 TV AO VIVO[/B]</name>
+        <name>[COLOR yellow]🔍 PESQUISAR CONTEÚDO[/COLOR]</name>
+        <thumbnail>https://archive.org/download/addonfanart2/search.png</thumbnail>
+        <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
+        <externallink>search</externallink>
+    </channel>
+
+    <!-- 📺 SEÇÃO TV -->
+    <channel>
+        <name>[COLOR blue]📺 TV AO VIVO[/COLOR]</name>
         <thumbnail>https://archive.org/download/addonfanart2/addontv.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/tvaovivo.xml</externallink>
     </channel>
 
     <channel>
-        <name>[B]📺 TV AO VIVO 2[/B]</name>
+        <name>[COLOR blue]📺 TV AO VIVO 2[/COLOR]</name>
         <thumbnail>https://archive.org/download/tvonline2_202508/tvonline2.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/tvonline2.xml</externallink>
     </channel>
     
-    <!-- Categoria Filmes -->
+    <!-- 🎬 SEÇÃO FILMES -->
     <channel>
-        <name>[B]🎬 FILMES[/B]</name>
+        <name>[COLOR green]🎬 FILMES[/COLOR]</name>
         <thumbnail>https://archive.org/download/addonfanart2/addonfilmes.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes.xml</externallink>
     </channel>
 
     <channel>
-        <name>[B]🎬 FILMES 2[/B]</name>
+        <name>[COLOR green]🎬 FILMES 2[/COLOR]</name>
         <thumbnail>https://archive.org/download/tvonline2_202508/filmes2.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes2.xml</externallink>
     </channel>
     
-    <!-- Categoria Séries -->
+    <!-- 🎞️ SEÇÃO SÉRIES -->
     <channel>
-        <name>[B]🎞️ SÉRIES[/B]</name>
+        <name>[COLOR orange]🎞️ SÉRIES[/COLOR]</name>
         <thumbnail>https://archive.org/download/addonfanart2/addonseries.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/series.xml</externallink>
     </channel>
 
     <channel>
-        <name>[B]🎞️ SÉRIES 2[/B]</name>
+        <name>[COLOR orange]🎞️ SÉRIES 2[/COLOR]</name>
         <thumbnail>https://archive.org/download/tvonline2_202508/series2.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/series2.xml</externallink>
