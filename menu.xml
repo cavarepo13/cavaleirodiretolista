@@ -14,7 +14,8 @@
         <name>[COLOR yellow]🔍 PESQUISAR CONTEÚDO[/COLOR]</name>
         <thumbnail>https://archive.org/download/addonfanart2/search.png</thumbnail>
         <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <externallink>search</externallink>
+        <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes.xml</externallink>
+        <externallink></externallink>
     </channel>
 
     <!-- 📺 SEÇÃO TV -->
