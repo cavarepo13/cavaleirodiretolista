@@ -9,15 +9,6 @@
         <externallink>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/menu.xml</externallink>
     </channel>
 
-    <!-- 🔍 SEÇÃO DE PESQUISA -->
-    <channel>
-        <name>[COLOR yellow]🔍 PESQUISAR CONTEÚDO[/COLOR]</name>
-        <thumbnail>https://archive.org/download/addonfanart2/search.png</thumbnail>
-        <fanart>https://archive.org/download/addonfanart2/addonfanart2.png</fanart>
-        <pesquisa>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes.xml</pesquisa>
-        <pesquisa>https://raw.githubusercontent.com/cavarepo13/cavaleirodiretolista/refs/heads/main/filmes2.xml</pesquisa>
-    </channel>
-
     <!-- 📺 SEÇÃO TV -->
     <channel>
         <name>[COLOR blue]📺 TV AO VIVO[/COLOR]</name>
