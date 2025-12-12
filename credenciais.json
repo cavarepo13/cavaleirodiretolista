@@ -3,28 +3,7 @@
     "categoria": "[COLORblue]ENTRAR TEAM CAVALEIRO[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
-    "servidores": [ 
-		{
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORorange] listagem T.C. -2[/COLOR]",
-        "dns": "http://7voahoje.top:80",
-        "username": "34545yu",
-        "password": "5656756",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	{
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORorange] listagem T.C. -1[/COLOR]",
-        "dns": "http://vivofibrax.org",
-        "username": "idddyktu68",
-        "password": "1npdnyj6m9",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	{
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORcoral] listagem T.C. 00[/COLOR]",
-        "dns": "http://jrplay.online:80",
-        "username": "495643544",
-        "password": "394668285",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
+    "servidores": [
 	 {
         "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORpink] listagem T.C. 01[/COLOR]",
         "dns": "http://brtwo.foo:80",
@@ -67,36 +46,8 @@
         "password": "fernando0102",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
-	  {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORred] listagem T.C. 07[/COLOR]",
-        "dns": "http://pr1m3.fun",
-        "username": "762644049",
-        "password": "Leite5522",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORcoral] listagem T.C. 08[/COLOR]",
-        "dns": "http://cdnrptv.com:80",
-        "username": "483389761",
-        "password": "247848561",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORorange] listagem T.C. 09[/COLOR]",
-        "dns": "http://xui.brfontes.fun",
-        "username": "400087118461",
-        "password": "427705559174",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
-	  {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORpink] listagem T.C. 10[/COLOR]",
-        "dns": "http://jrplay.online:80",
-        "username": "431985512",
-        "password": "742584298",
-        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      },
       {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORblue] listagem T.C. 11[/COLOR]",
+        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORblue] listagem T.C. 07[/COLOR]",
         "dns": "http://rede.tvno.site:80",
         "username": "999882698",
         "password": "fernando0102",
