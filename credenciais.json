@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "[COLORpink]ENTRAR TEAM CAVALEIRO[/COLOR]",
+    "categoria": "[COLORgreen] ENTRAR[/COLOR][COLORpink] TEAM CAVALEIRO[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
     "servidores": [ 
@@ -15,7 +15,7 @@
         "nome": "[COLORyellow]TEAM CAVALEIRO[/COLOR] [COLORpink] listagem T.C. 01+[/COLOR]",
         "dns": "http://ragnatech.space",
         "username": "robertosilva99",
-        "password": "robertosilva99",
+        "password": "99silvaroberto",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
       {
