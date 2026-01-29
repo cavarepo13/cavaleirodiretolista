@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORyellow]TEAM CAVALEIRO[/COLOR]",
+    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORpink]TEAM CAVALEIRO[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
     "servidores": [ 
@@ -89,14 +89,28 @@
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
 	  {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem - 12[/COLOR]",
+        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORviolet] listagem - 12[/COLOR]",
+        "dns": "http://gjrctv.com",
+        "username": "Taty",
+        "password": "9Aa8N",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
+	  {
+        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORviolet] listagem - 13/tes[/COLOR]",
+        "dns": "http://ofhsothree.lat",
+        "username": "Carlosalbert",
+        "password": "3UP11786",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
+	  {
+        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem - 14[/COLOR]",
         "dns": "http://one14.icu",
         "username": "9syr7mp2",
         "password": "3b2mfsrz",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
       {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem - 13[/COLOR]",
+        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem - 07[/COLOR]",
         "dns": "http://5enfh2j.xyz",
         "username": "EspetoAures",
         "password": "E67196ea",
