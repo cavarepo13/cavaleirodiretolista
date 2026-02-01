@@ -1,14 +1,14 @@
 [
   {
-    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORorange]TEAM CAVALEIRO[/COLOR]",
+    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORyellow]TEAM CAVALEIRO[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
     "servidores": [ 
-		{
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORgold] listagem - 00+[/COLOR]",
-        "dns": "http://visionplusdns.xyz",
-        "username": "robersonstun13",
-        "password": "13stunroberson",
+	  {
+        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORviolet] listagem - 00[/COLOR]",
+        "dns": "http://ofhsothree.lat",
+        "username": "Carlosalbert",
+        "password": "3UP11786",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
 	  {
@@ -46,13 +46,13 @@
         "password": "mendesgeraldo88",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
-      {
-        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem - 07[/COLOR]",
-        "dns": "http://5enfh2j.xyz",
-        "username": "EspetoAures",
-        "password": "E67196ea",
+	  {
+        "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORchocolate] listagem - 06[/COLOR]",
+        "dns": "http://x2caverinhas.store",
+        "username": "1fag738rodri",
+        "password": "627282fag73828",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
-      }
+      },
     ]
   }
 ]
