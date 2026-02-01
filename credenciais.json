@@ -3,7 +3,8 @@
     "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORyellow]TEAM CAVALEIRO[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
-    "servidores": [ 
+    "servidores": [
+        },	
 		{
         "nome": "[COLORblue]TEAM CAVALEIRO[/COLOR] [COLORgold] listagem - 00+[/COLOR]",
         "dns": "http://visionplusdns.xyz",
