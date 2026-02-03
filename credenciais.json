@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORyrllow]TEAM CAVALEIRO[/COLOR]",
+    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORpink]TEAM CAVALEIRO[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
     "servidores": [ 
@@ -67,8 +67,15 @@
         "password": "90407010800",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
+	  {
+        "nome": "[COLORorange]TEAM CAVALEIRO[/COLOR] [COLORred] listagem 09/teste[/COLOR]",
+        "dns": "http://vivofibrax.org:80",
+        "username": "2911639",
+        "password": "7166401",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
       {
-        "nome": "[COLORpink]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem 09[/COLOR]",
+        "nome": "[COLORpink]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem 10[/COLOR]",
         "dns": "http://rede.tvno.site:80",
         "username": "999882698",
         "password": "fernando0102",
