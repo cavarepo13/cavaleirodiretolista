@@ -1,6 +1,6 @@
 [
   {
-    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORorange]TEAM CAVALEIRO[/COLOR]",
+    "categoria": "[COLORgreen]ENTRAR[/COLOR] [COLORyrllow]TEAM CAVALEIRO[/COLOR]",
     "icon": "https://archive.org/download/icon_20250905_202509/icon.gif",
     "fanart": "https://archive.org/download/icon_20250905/fanart.png",
     "servidores": [ 
@@ -60,8 +60,15 @@
         "password": "79721808",
         "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
       },
+	  {
+        "nome": "[COLORorange]TEAM CAVALEIRO[/COLOR] [COLORred] listagem 08/teste[/COLOR]",
+        "dns": "http://flipex.pro:80",
+        "username": "1203felipe1",
+        "password": "90407010800",
+        "icon": "https://archive.org/download/icon_20250905_202509/icon.gif"
+      },
       {
-        "nome": "[COLORpink]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem 08[/COLOR]",
+        "nome": "[COLORpink]TEAM CAVALEIRO[/COLOR] [COLORcyan] listagem 09[/COLOR]",
         "dns": "http://rede.tvno.site:80",
         "username": "999882698",
         "password": "fernando0102",
